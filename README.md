@@ -1,6 +1,6 @@
 SPA-приложение. 
 Позволяет найти и отобразить в списке стран интересующую с помощью инпута и селекта. 
-Использует api: 'https://restcountries.com/v2/'. 
+Использует api: 'https://restcountries.com/v2/all?fields=name,capital,flags,population,region'. 
 
 stack:
 1) create-react-app
